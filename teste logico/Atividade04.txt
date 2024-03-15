@@ -1,0 +1,9 @@
+Resposta 4)=
+
+Ida 1: Ligaria o INTERRUPTOR(1) por um tempo, iria para a sala e associaria a Ida 1 a LÂMPADA A
+
+Ida 2: Liga outro INTERRUPTOR(2) por um tempo, iria para a sala e associaria a Ida 1 a LÂMPADA B
+
+O INTERRUPTOR(3) seria o que eu não liguei, e por lógica, a LÂMPADA C seria associada a ele.
+
+1 = A 2 = B 3 = C
